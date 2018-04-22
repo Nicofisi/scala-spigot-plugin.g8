@@ -35,7 +35,7 @@ public class $name$Java extends JavaPlugin implements Listener {
 
     // Event Handlers
     //
-    // Every method below needs to be annotated with @EventHandler and call $name$.onJoin(event).
+    // Every method below needs to be annotated with @EventHandler and call $name$.onEventName(event).
     // We need this to be in Java because Spigot uses Java's reflection to call events, and Scala
     // would require a different approach to reflection, which Spigot doesn't support
 
