@@ -16,7 +16,7 @@ Template license
 ----------------
 Written in 2018 by Nicofisi
 
-To the extent possible under law, the author have dedicated all copyright and related
+To the extent possible under law, the author has dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
 
 You should have received a copy of the CC0 legal code along with this
